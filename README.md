@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Babaly Barry , a Computer Engineering student at Arel university in Istanbul, interested in software development, system analysis and design, and applied data science. I encourage the use of clean, optimized code wherever possible and believe that any complex system can be understood by its core logic. I want to apply everything I've learned about engineering and data modeling by collaborating on open-source projects. I enjoy building network routing simulators, experimenting with machine learning models, setting up Linux environments, and learning new tools.
+I am Babaly Barry , a Computer Engineering student at Arel university in Istanbul, interested in software development, applied data science , and system analysis and design. I encourage the use of clean, optimized code wherever possible and believe that any complex system can be understood by its core logic. I want to apply everything I've learned about engineering and data modeling by collaborating on open-source projects. I enjoy building network routing simulators, experimenting with machine learning models, setting up Linux environments, and learning new tools.
 
 💻 **Tech Stack & Tools**
 * **Languages:** C++, Java, Python
