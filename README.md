@@ -1,20 +1,21 @@
-Hi there 👋
+# Hi there 👋
 
-I am Babaly Barry , a Computer Engineering student based in Istanbul. I am highly interested in software development, operating systems, and data modeling. I enjoy learning new technologies, analyzing complex systems, and applying my knowledge to solve practical engineering problems.
+I am Babaly Barry , a Computer Engineering student at Arel university in Istanbul, interested in software development, system analysis and design, and applied data science. I encourage the use of clean, optimized code wherever possible and believe that any complex system can be understood by its core logic. I want to apply everything I've learned about engineering and data modeling by collaborating on open-source projects. I enjoy building network routing simulators, experimenting with machine learning models, setting up Linux environments, and learning new tools.
 
-🔭 Expertise
+💻 **Tech Stack & Tools**
 * **Languages:** C++, Java, Python
-* **Data Science:** Pandas, scikit-learn, Random Forest models
-* **Tools & Technologies:** Logisim, LaTeX, Linux environments
+* **Data Science:** Pandas, scikit-learn, Random Forest
+* **Environments & Tools:** Logisim, LaTeX, Linux
 
-🌱 I'm currently learning
-* Advanced Data Communications and Networking
-* Applied Data Science
+🌱 **What I am currently learning**
+* System Analysis and Design methodologies
+* Advanced network routing algorithms (like Dijkstra & Bellman-Ford)
+* Building predictive models using Machine Learning
 
-👯 I'm looking to collaborate on
-* Open-source projects related to algorithmic design
-* Network routing simulators and data modeling
+👯 **Open to collaborating on**
+* Open-source projects focusing on algorithm design
+* C++ networking projects or data modeling
 
-📫 How to reach me:
+📫 **Let's connect!**
 * **GitHub:** https://github.com/LOwz277
 * **Email:** babalybarry77@gmail.com
